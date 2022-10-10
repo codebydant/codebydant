@@ -35,19 +35,19 @@ Find me on my networks:
 
 ## &#x1f4c8; My GitHub Stats
 <div style="display: flex; flex-direction: row; height:200px">
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=danielTobon43&show_icons=true&theme=radical" height="200"/>
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielTobon43&theme=radical" height="200"/>
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=dtcMLOps&show_icons=true&theme=radical" height="200"/>
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtcMLOps&theme=radical" height="200"/>
 </div>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielTobon43&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielTobon43&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielTobon43&repo=DBScan-PCL-Optimized&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtcMLOps&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtcMLOps&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtcMLOps&repo=dtcMLOps&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=danielTobon43)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dtcMLOps)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
-**danielTobon43/danielTobon43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dtcMLOps/dtcMLOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
