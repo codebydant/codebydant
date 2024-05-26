@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋🙈
 <p align="center">
-  <img class="avatar" alt="jonrohan" src="https://www.just-drinks.com/wp-content/uploads/sites/29/2022/02/AB-InBev-logo.png" height="400" width="500">
+  <img class="avatar" alt="jonrohan" src="https://github.com/dtcMLOps/dtcMLOps/assets/115469901/22e1047a-bd13-4d63-87d3-faa15cfab85f" height="400">
 </p>
 
 Mechatronics Engineer with an emphasis on Application Development in Computer vision, Image and Depth processing. I am passionate about technology and Intelligent systems, artificial intelligence. I enjoy sharing my work on GitHub either some c++ applications, python frameworks and small projects about point cloud and image processing, CMake frameworks, and embedded software. 
