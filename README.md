@@ -5,13 +5,6 @@
 
 Mechatronics Engineer with an emphasis on Application Development in Computer vision, Image and Depth processing. I am passionate about technology and Intelligent systems, artificial intelligence. I enjoy sharing my work on GitHub either some c++ applications, python frameworks and small projects about point cloud and image processing, CMake frameworks, and embedded software. 
 
-Find me on my networks:
-
-- LinkedIn: https://www.linkedin.com/in/danieltobonco43/
-- Portfolio: https://danieltobon43.github.io/
-- ResearchGate: https://www.researchgate.net/profile/Daniel_Tobon2
-
-
 ---
 
 💻 **Languages and Tools:** 🛠️<br>
