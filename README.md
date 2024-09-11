@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋🙈
 <p align="center">
-  <img class="avatar" alt="jonrohan" src="https://github.com/dtcMLOps/dtcMLOps/assets/115469901/22e1047a-bd13-4d63-87d3-faa15cfab85f" height="300">
+  <img class="avatar" alt="jonrohan" src="https://github.com/codebydant/codebydant/assets/115469901/22e1047a-bd13-4d63-87d3-faa15cfab85f" height="300">
 </p>
 
 Mechatronics Engineer with an emphasis on Application Development in Computer vision, Image and Depth processing. I am passionate about technology and Intelligent systems, artificial intelligence. I enjoy sharing my work on GitHub either some c++ applications, python frameworks and small projects about point cloud and image processing, CMake frameworks, and embedded software. 
@@ -28,16 +28,16 @@ Mechatronics Engineer with an emphasis on Application Development in Computer vi
 
 ## &#x1f4c8; My GitHub Stats
 <div style="display: flex; flex-direction: row; height:200px">
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=dtcMLOps&show_icons=true&theme=radical" height="200"/>
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtcMLOps&theme=radical" height="200"/>
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=codebydant&show_icons=true&theme=radical" height="200"/>
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebydant&theme=radical" height="200"/>
 </div>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtcMLOps&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtcMLOps&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtcMLOps&repo=dtcMLOps&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebydant&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebydant&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codebydant&repo=codebydant&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=dtcMLOps)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=codebydant)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **dtcMLOps/dtcMLOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
