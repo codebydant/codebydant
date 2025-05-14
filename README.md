@@ -3,7 +3,16 @@
   <img class="avatar" alt="jonrohan" src="https://github.com/codebydant/codebydant/assets/115469901/22e1047a-bd13-4d63-87d3-faa15cfab85f" height="300">
 </p>
 
-Mechatronics Engineer with an emphasis on Application Development in Computer vision, Image and Depth processing. I am passionate about technology and Intelligent systems, artificial intelligence. I enjoy sharing my work on GitHub either some c++ applications, python frameworks and small projects about point cloud and image processing, CMake frameworks, and embedded software. 
+Mechatronics Engineer with 5+ years of experience building scalable and automated solutions across Machine Learning, MLOps, and DevOps environments. I have a strong passion for technology, system design, and intelligent automation. My background spans from computer vision and embedded systems to cloud infrastructure and CI/CD pipelines. I’ve led initiatives in inner sourcing, developed reusable MLOps workflows, and implemented cloud-native architectures using tools like Kubernetes, Terraform, and Databricks. I enjoy contributing to open source and sharing technical projects on GitHub, ranging from C++ applications and Python frameworks to image processing, point clouds, and embedded software using CMake.
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codebydant/codebydant/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codebydant/codebydant/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codebydant/codebydant/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 ---
 
