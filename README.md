@@ -37,8 +37,8 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 
 ## &#x1f4c8; My GitHub Stats
 <div style="display: flex; flex-direction: row; height:200px">
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=codebydant&show_icons=true&theme=radical" height="200"/>
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebydant&theme=radical" height="200"/>
+<img class="img" src=".github/assets/stats.svg" height="200"/>
+<img class="img" src=".github/assets/top-langs.svg" height="200"/>
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebydant&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -46,7 +46,7 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codebydant&repo=codebydant&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=codebydant)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **dtcMLOps/dtcMLOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
