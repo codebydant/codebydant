@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋🙈
 <p align="center">
-  <img class="avatar" alt="jonrohan" src="https://github.com/codebydant/codebydant/assets/115469901/22e1047a-bd13-4d63-87d3-faa15cfab85f" height="300">
+  <img class="avatar" alt="jonrohan" src="https://github.com/user-attachments/assets/c190e37e-9d57-4dbb-b072-00f1b7510760">
 </p>
 
 Mechatronics Engineer with 7+ years of experience building scalable cloud platforms, infrastructure, automation, and MLOps solutions. My background spans Platform Engineering, DevOps, cloud infrastructure, Kubernetes, CI/CD, Infrastructure as Code, and data and ML platforms. I have designed and automated cloud-native environments using technologies such as Kubernetes, Terraform, Databricks, GCP, and Azure, with a strong focus on reliability, developer enablement, governance, and operational efficiency. I enjoy solving infrastructure and platform challenges, building reusable tooling and workflows, and contributing to open-source and technical projects.
